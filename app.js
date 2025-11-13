@@ -4,12 +4,12 @@ import { getMessaging, getToken, onMessage, isSupported } from "https://www.gsta
 
 // Configuración de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyAHaEs-Fc8r66nno_wSYuJKaBur06OM8Qw",
-  authDomain: "pwa-20223tn0791.firebaseapp.com",
-  projectId: "pwa-20223tn0791",
-  storageBucket: "pwa-20223tn0791.firebasestorage.app",
-  messagingSenderId: "947707252105",
-  appId: "1:947707252105:web:4f0fdf40b9fd6e85902558"
+  apiKey: "AIzaSyAsKtVn__KbM1BhBRtNEgz5qRkyGKfcKcI",
+  authDomain: "pwa-i20223tn132.firebaseapp.com",
+  projectId: "pwa-i20223tn132",
+  storageBucket: "pwa-i20223tn132.firebasestorage.app",
+  messagingSenderId: "740907690280",
+  appId: "1:740907690280:web:bb5f46f2343d3165eec81d"
 };
 
 // Inicializamos Firebase
