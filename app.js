@@ -41,7 +41,7 @@ if (supported) {
 }
 
 // Clave pública VAPID obtenida desde Firebase Console → Cloud Messaging
-const VAPID_KEY = "BJaD29-4Kw168XOFnxJ5EiNTaVfcnckRi44S-XEtcb73Ee6cw6U9rr3cJLazzXSHLg72ruWiMGe5pFF7cQBWOFQ";
+const VAPID_KEY = "BLLgOrWmpOx7pxUDchb4grvZWTppH16a6JxBafRrhIdtipsKcPJHp2HImf6fPe_i1-HEb4ezvWB4t1Y0TjwX-UI";
 
 // Función para pedir permiso al usuario y obtener token FCM
 async function requestPermissionAndGetToken() {
